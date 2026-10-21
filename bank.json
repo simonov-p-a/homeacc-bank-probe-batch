@@ -1,0 +1,15 @@
+{
+  "name": "probe",
+  "regNum": "0",
+  "binding": {
+    "type": "manual",
+    "steps": [
+      {
+        "text": "probe"
+      }
+    ],
+    "manual": {
+      "rows": 12
+    }
+  }
+}
